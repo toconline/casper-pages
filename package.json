@@ -1,7 +1,7 @@
 {
   "name": "@cloudware-casper/casper-pages",
   "main": "casper-pages.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "casper-pages is used to select one of its children to show.",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
