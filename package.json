@@ -1,5 +1,5 @@
 {
-  "name": "@cloudware-casper/casper-pages",
+  "name": "@toconline/casper-pages",
   "main": "casper-pages.js",
   "version": "0.0.4",
   "description": "casper-pages is used to select one of its children to show.",
